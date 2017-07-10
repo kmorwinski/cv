@@ -1,0 +1,125 @@
+= Lebenslauf - Kai Morwinski - Ingenieur
+:author: Kai Morwinski
+:data-uri:
+:doctype: article
+:encoding: UTF-8
+:lang: de
+:quirks:
+:theme: cv
+:toclevels: 2
+:description: Rev 1.1
+
+
+== Persönliches
+
+////
+[width="43.3mm",height="65mm",align="right"]
+image::profile-photo.jpg[Photo von Kai Morwinski]
+////
+
+Name::
+    Kai Morwinski
+
+Anschrift::
+    Kirchwiesenweg 37,
++
+47179 Duisburg
+
+Geburtsdatum::
+    06.11.1983
+
+Familienstand::
+    ledig
+
+Mobil::
+    0177 8397427
+
+Email::
+    kai.morwinski@mailbox.org
+
+Aktueller Lebenslauf und weitere Projekte::
+    https://www.xing.com/profile/Kai_Morwinski
++
+http://github.com/kmorwinski
+
+//[cols=2]
+== Berufliche Erfahrung / Projekte
+=>  _Referenzen auf Nachfrage_
+
+=== PEES Components GmbH ~Apr 2015 -> heute (>2 Jahre)~
+*Entwicklungsingenieur Elektrotechnik*
+
+ - Modernisierung der bestehenden digitalen Baugruppenreihe durch Umstellung auf eine 32bit CPU, RTOS und ein modulares Hardware Konzept
+ - Entwicklung der CPU Modul Platine für das neue modulare Konzept
+ - Anbindung einer digitalen Baugruppe an den EtherCAT Feldbus
+ - Erstellung der Dokumentationen von diversen neuen Baugruppen und Prüfgeräten
+ - Implementierung einer WebUSB Schnittstelle
+ - Technischer Support und Produktberatung
+
+=== Diplomarbeit ~Feb 2014 -> Sep 2014 (7.5 Monate)~
+*Titel: _Asymptotische Regularisierung mit Anwendungen in der Computertomographie_*
+
+ - Einarbeitung in das Regularisierungs Verfahren und Umsetzung des Verfahrens als numerischer Algorithmus in _C++_ und der Vektor-Bibliothek _Eigen_
+ - Design einer GUI und einer CLI Schnittstelle zur Ansteuerung und Auswertung des Algorithmus
+ - Erstellung von Testdaten und Verifikation des Algorithmus
+
+=== PEES Components GmbH ~Jan 2006 -> Jan 2014 (8 Jahre)~
+*Studentische Hilfskraft*
+
+ - Softwareentwicklung für digitale Baugruppen zur Steuerung und Regelung von Anlangen, hauptsächlich im Bereich der hydraulischen Antriebstechnik
+ - Implementierung klassischer Regelunsgtechnik Algorithmen auf 16bit DSP Rechnerarchitekturen von Microchip
+ - Entwicklung einer Konfigurations-Software für Windows zur Inbetriebnahme und Wartung der Baugruppen
+ - Inbetriebnahme und Reparatur von Anlagen vor Ort
+ - Teilentwicklung elektronischer Schaltungen und Komponenten für neue Steuergeräte und zukünftige digitale Prüfgeräte
+
+<<<
+
+== Kenntnisse
+
+[cols=2]
+=== Software
+  - Umfassende Erfahrungen mit C/C\++ Compilern (GCC, XC16, XC32, C16, Visual C++) und IDEs (MPLAB(-X), Visual Studio, Qt Creator, Eclipse)
+  - Erfahrung mit Projektmanagement Software (Jira, Bitbucket, Trac)
+  - Erfahrung mit Quellcode Verwaltungsprogrammen (Git, Subversion)
+  - Erfahrungen mit EDA und SPICE Software zur Schaltungsentwicklung (Target 3001!, KiCad, CADSTAR) und Simulation (LTSpice, Multisim)
+  - Erfahrung in verschiedenen Dokumentations-Systemen (LaTeX, Doxygen, DITA, AsciiDoc)
+  - Weitreichende Erfahrungen in den Betriebsystemen MS Windows und Linux
+  - Erfahrung mit Textverarbeitungsprogrammen (MS Office, LibreOffice)
+
+[cols=2]
+=== Programmiersprachen
+ - C ~(>12 Jahre)~,
+ - C++ mit Qt ~(>8 Jahre)~,
+ - Assembler (MIPS und Microchip),
+ - MATLAB/Simulink,
+ - Javascript,
+ - Typescript,
+ - ST
+
+=== Sprachen
+  - *Deutsch*: Muttersprache
+  - *English*: fluently spoken and written
+  - *Français*: limité
+
+== Ausbildung
+
+=== Fortbildungen
+  - *Power and Analog Seminar* Analog Devices ~2017~
+  - *EMV Seminar* IMST GmbH / Würth Elektronik eiSos GmbH & Co. KG ~2016~
+
+=== Schulbildung
+Universität Duisburg-Essen, Duisburg / Essen ~2004 -> 2015 (22 Semester)~::
+    Technomathematik (Diplom)
+    * _Schwerpunkte im Hauptfach_: Inverse Probleme, Numerische Mathematik
+    * _Schwerpunkte im Anwendungsfach Elektrotechnik_: Regelungstechnik
+
+Gymnasium Rheinkamp, Moers ~2001 -> 2003 (2.5 Jahre)~::
+    Bilinguales Abitur
+
+St. Francis College, Rochestown Co. Cork, Irland ~2000 -> 2001 (5 Monate)~::
+    Transitionyear
+
+== Hobbies
+  - *Segeln*: aktiver Regattasport in der Bootsklasse _Yngling_
+  - *Musik*
+  - *Brettspiele*
